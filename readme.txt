@@ -7,3 +7,5 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
 Creating a new branch is quick % simple.
 Disable fast forward
+Add a test A
+Add a test B
